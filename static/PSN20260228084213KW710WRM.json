@@ -2,7 +2,7 @@
     "success": true,
     "orderId": "PSN20260228084213KW710WRM",
     "createdAt": "2026-02-28T10:01:38+07:00",
-    "lastUpdate": "2026-02-28T12:28:20+07:00",
+    "lastUpdate": "2026-02-28T12:30:52+07:00",
     "customer": {
         "name": "",
         "phone": "",
@@ -56,6 +56,13 @@
             "title": "Selesai",
             "description": "[2026-02-28 09:58:45] Pesanan telah diterima",
             "date": "2026-02-28T02:58:45.615Z",
+            "done": false
+        },
+        {
+            "code": "CUSTOM_1772256643416",
+            "title": "Awwww",
+            "description": "[2026-02-28 12:30:41] Pesanan berhasil dibuat",
+            "date": "2026-02-28T05:30:41.040Z",
             "done": false
         }
     ]

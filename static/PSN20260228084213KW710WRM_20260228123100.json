@@ -1,0 +1,69 @@
+{
+    "success": true,
+    "orderId": "PSN20260228084213KW710WRM",
+    "createdAt": "2026-02-28T10:01:38+07:00",
+    "lastUpdate": "2026-02-28T12:30:59+07:00",
+    "customer": {
+        "name": "",
+        "phone": "",
+        "address": ""
+    },
+    "payment": {
+        "method": "",
+        "status": "UNPAID",
+        "paidAt": null,
+        "amount": 0
+    },
+    "shipping": {
+        "courier": "",
+        "service": "",
+        "resi": "PSN20260228084213KW710WRM",
+        "estimatedDelivery": "",
+        "currentLocation": ""
+    },
+    "items": [],
+    "summary": {
+        "subtotal": 0,
+        "shippingCost": 99999,
+        "discount": 0,
+        "total": 99999
+    },
+    "status": "PROCESSING",
+    "timeline": [
+        {
+            "code": "ORDER_CREATED",
+            "title": "Pesanan Dibuat",
+            "description": "[2026-02-28 09:48:01] Pesanan berhasil dibuat",
+            "date": "2026-02-28T02:48:01.675Z",
+            "done": false
+        },
+        {
+            "code": "PAYMENT_CONFIRMED",
+            "title": "Pembayaran Dikonfirmasi",
+            "description": "[2026-02-28 09:48:02] Admin telah menerima pembayaran",
+            "date": "2026-02-28T02:48:02.795Z",
+            "done": false
+        },
+        {
+            "code": "SHIPPED",
+            "title": "Dikirim",
+            "description": "[2026-02-28 09:48:26] Pesanan dalam perjalanan",
+            "date": "2026-02-28T02:48:26.006Z",
+            "done": false
+        },
+        {
+            "code": "DELIVERED",
+            "title": "Selesai",
+            "description": "[2026-02-28 09:58:45] Pesanan telah diterima",
+            "date": "2026-02-28T02:58:45.615Z",
+            "done": false
+        },
+        {
+            "code": "CUSTOM_1772256643416",
+            "title": "Awwww",
+            "description": "[2026-02-28 12:30:41] Pesanan berhasil dibuat",
+            "date": "2026-02-28T05:30:41.040Z",
+            "done": false
+        }
+    ]
+}
